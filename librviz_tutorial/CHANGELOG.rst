@@ -2,8 +2,8 @@
 Changelog for package librviz_tutorial
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.11.1 (2025-04-10)
+-------------------
 * Update maintainers (`#63 <https://github.com/ros-visualization/visualization_tutorials/issues/63>`_)
 * Contributors: Mabel Zhang
 
