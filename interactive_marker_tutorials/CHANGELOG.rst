@@ -2,6 +2,12 @@
 Changelog for package interactive_marker_tutorials
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* print_function for py3 (`#61 <https://github.com/ros-visualization/visualization_tutorials/issues/61>`_)
+* Update maintainers (`#63 <https://github.com/ros-visualization/visualization_tutorials/issues/63>`_)
+* Contributors: Mabel Zhang, Tobias Fischer
+
 0.11.0 (2020-05-13)
 -------------------
 
