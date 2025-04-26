@@ -2,6 +2,11 @@
 Changelog for package rviz_python_tutorial
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Eliminate Python 2 code (`#88 <https://github.com/ros-visualization/visualization_tutorials/issues/88>`_)
+* Contributors: vineet131
+
 0.11.1 (2025-04-10)
 -------------------
 * Update maintainers (`#63 <https://github.com/ros-visualization/visualization_tutorials/issues/63>`_)
