@@ -2,8 +2,8 @@
 Changelog for package interactive_marker_tutorials
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.11.2 (2025-04-26)
+-------------------
 * Do not forward-declare Ogre types (`#84 <https://github.com/ros-visualization/visualization_tutorials/issues/84>`_)
 * Contributors: Michael Görner
 

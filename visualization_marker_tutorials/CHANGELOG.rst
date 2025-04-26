@@ -2,8 +2,8 @@
 Changelog for package visualization_marker_tutorials
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.11.2 (2025-04-26)
+-------------------
 * Remove '/' (forward slash) from '/my_frame', which frustratingly makes Rviz unable to show the markers. (`#70 <https://github.com/ros-visualization/visualization_tutorials/issues/70>`_)
 * Contributors: Phase Le
 

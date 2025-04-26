@@ -2,8 +2,8 @@
 Changelog for package rviz_plugin_tutorials
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.11.2 (2025-04-26)
+-------------------
 * Eliminate Python 2 code (`#88 <https://github.com/ros-visualization/visualization_tutorials/issues/88>`_)
 * Include class_list_macros.hpp instead of h (`#91 <https://github.com/ros-visualization/visualization_tutorials/issues/91>`_)
 * Do not forward-declare Ogre types (`#84 <https://github.com/ros-visualization/visualization_tutorials/issues/84>`_)

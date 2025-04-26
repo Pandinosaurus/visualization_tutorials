@@ -2,8 +2,8 @@
 Changelog for package librviz_tutorial
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.11.2 (2025-04-26)
+-------------------
 * Eliminate Python 2 code (`#88 <https://github.com/ros-visualization/visualization_tutorials/issues/88>`_)
 * Contributors: vineet131
 
